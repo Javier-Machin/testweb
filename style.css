@@ -48,6 +48,10 @@ img {
 	border-color: #ccc;
 }
 
+img:hover {
+	float: right;
+}
+
 a {
 	text-decoration: none;
 }
@@ -55,6 +59,10 @@ a {
 strong {
 	font-style: italic;
 	text-transform: uppercase;
+}
+
+textarea:hover {
+	background: red;
 }
 
 li {
